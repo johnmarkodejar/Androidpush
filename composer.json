@@ -1,6 +1,6 @@
 {
     "name": "johnmarkodejar/apush",
-    "description": "Sample Apush Package",
+    "description": "My first Composer project",
     "authors": [
         {
             "name": "John Mark",
@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-0": {
-            "androidpush": "src/"
+            "HelloWorld": "src/"
         }
     }
 }
